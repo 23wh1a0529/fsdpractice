@@ -1,0 +1,10 @@
+let num = 10;
+let num1 = 19.9;
+var text = "hello";
+var found = false;
+var a = null;
+console.log(typeof(num));
+console.log(typeof(num1));
+console.log(typeof(text));
+console.log(typeof(found));
+console.log(typeof(a));
